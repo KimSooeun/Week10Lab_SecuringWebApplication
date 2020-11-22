@@ -83,5 +83,4 @@ public class NoteDB {
             em.close();
         }
     }
-
 }
